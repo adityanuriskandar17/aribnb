@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
-gem "rails", "~> 7.2.0.beta3"
+gem "rails", "~> 7.2.0.rc1"
 # Use devise for user authentication
 gem "devise", "~> 4.9", ">= 4.9.3"
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
